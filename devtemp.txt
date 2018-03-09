@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 hello team !!!:w
 
 I ave been working in the file and some person has illegiable modfied the contents
 
 q
+=======
+hello team !!!:wq
+No need of this file.. Remote
+>>>>>>> b5f924cac1c6cea32049b606cf561290e6b22db0
