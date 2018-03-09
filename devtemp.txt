@@ -7,4 +7,6 @@ q
 =======
 hello team !!!:wq
 No need of this file.. Remote
->>>>>>> b5f924cac1c6cea32049b606cf561290e6b22db0
+
+
+Changes in remote stash
